@@ -1,0 +1,8 @@
+Create folder ITP401, create files app.js,index.html, styles.css,tech.html. after that, from your index.html, you can just type
+shift 1 and tab/enter to bring out some default codes. Added link(defines the relationship betwwen the html file and the css file) 
+and entered, after typed in style.css. 
+Extensions downloaded are:
+live server(Automatically opens a browser and after saving, makes the browser auto refresh itself ) and 
+prettier(If i auto save, it automatically makes my code look cleaner).
+Go to style.css and type h1 and curly brackets and color red to check if things are working properly! Go back to index.html 
+and right click and open with live server.
